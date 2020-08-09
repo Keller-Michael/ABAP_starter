@@ -1,4 +1,4 @@
-# ABAP_starter
+# ABAP starter
 
 ## motivation
 
