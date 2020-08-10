@@ -1,6 +1,6 @@
 # ABAP starter
 
-## motivation
+## Motivation of this repository
 
 This repository is intended to provide all interested people with an initial overview of the requirements to become an ABAP developer and the options for getting started. The trigger for the creation of this repository were increased questions from trainees and students, job starters and job changers. Instead of giving a lot of single answers to everyone, this hub was created as a central starting point.
 
@@ -8,11 +8,11 @@ The information given here is neither complete nor does it claim to be correct. 
 
 It should also be noted that this is general information. Since everyone is different, everyone has to find his own way based on this information. Of course, you don't have to do this alone. All ABAP developers should offer help to the best of their ability.
 
-## first online impressions of the programming language
+## First online impressions of the programming language
 
 For a first online impression, some general information on the ABAP programming language can be found in this [Wiki article](https://en.wikipedia.org/wiki/ABAP).
 
-## first offline impressions of the programming language
+## First offline impressions of the programming language
 
 In order to experience the programming language, an accompanied course is recommended. There are often corresponding offers for students and trainees.
 
@@ -20,7 +20,7 @@ If you know an ABAP developer, you should get a personal introduction to the pro
 
 Reading a beginner's book is also recommended. You should make sure that the literature is as new as possible. A well-known publisher for ABAP literature is [Rheinwerk-Verlag](https://www.rheinwerk-verlag.de/) with the "[SAP Press](https://www.rheinwerk-verlag.de/sap/)" brand. Highly recommended. A good starting point might be the book "[Jumpstart your ABAP career!](https://www.sap-press.com/abap_4955/)" by Brian O’Neill and Jelena Perfiljeva.
 
-## typical activities of an ABAP developer
+## Typical activities of an ABAP developer
 
 The following list is a mix of typical core tasks.
 
@@ -51,7 +51,7 @@ Maybe these tasks are also part of the work:
 * support sales team
 * organize development
 
-## tree view of usefull skills
+## Tree view of usefull skills
 
 The following tree view is not meant as "complete". In addition, not every term automatically has to play a role in the working life of an ABAP developer. Furthermore, it's impossible to achieve mastery in every skill or talent. A good mix is sufficient - with strengths and weaknesses. The team you work in should do what you can't do yourself. Find your place in the team.
 
