@@ -19,7 +19,8 @@ In order to experience the programming language, an accompanied course is recomm
 If you know an ABAP developer, you should get a personal introduction to the programming language, the development tools and the execution environment.
 
 Reading a beginner's book is also recommended. You should make sure that the literature is as new as possible. A well-known publisher for ABAP literature is [Rheinwerk-Verlag](https://www.rheinwerk-verlag.de/) with the "[SAP Press](https://www.rheinwerk-verlag.de/sap/)" brand. Highly recommended. 
-A good starting point might be the book "[ABAP - An Introduction](https://www.sap-press.com/abap_4955/)" by Brian O’Neill and Jelena Perfiljeva. For German-speaking readers, the book "[ABAP-Entwicklung für SAP S/4HANA](https://www.rheinwerk-verlag.de/abap-entwicklung-fuer-sap-s4hana/)" by Constantin-Catalin Chiuaru et al. could be interesting.
+A good starting point might be the book "[ABAP - An Introduction](https://www.sap-press.com/abap_4955/)" by Brian O’Neill and Jelena Perfiljeva. For German-speaking readers, the book "[ABAP - Entwicklung für SAP S/4HANA](https://www.rheinwerk-verlag.de/abap-entwicklung-fuer-sap-s4hana/)" by Constantin-Catalin Chiuaru et al. could be interesting.
+As soon as you've made your first experience with ABAP, read the book "[Clean ABAP: A Style Guide for Developers](https://www.sap-press.com/clean-abap_5190/)". The book gives many tips and suggestions on how to write maintainable ABAP source code. And that's exactly what it's all about every day.
 
 ## Typical activities of an ABAP developer
 
