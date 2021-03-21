@@ -165,3 +165,4 @@ Here's the platform selection.
 * [GitHub](https://github.com/)
 * [ABAP Blog](https://abapblog.com/)
 * [Tricktresor](https://tricktresor.de/)
+* [Die Codezentrale](https://codezentrale.de/category/sap/)
