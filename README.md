@@ -1,6 +1,6 @@
-# ABAP starter
+# :rocket: ABAP starter
 
-## Motivation of this repository
+## :pushpin: Motivation of this repository
 
 This repository is intended to provide all interested people with an initial overview of the requirements to become an ABAP developer and the options for getting started. The trigger for the creation of this repository were increased questions from trainees and students, job starters and job changers. Instead of giving a lot of single answers to everyone, this hub was created as a central starting point.
 
@@ -8,11 +8,11 @@ The information given here is neither complete nor does it claim to be correct. 
 
 It should also be noted that this is general information. Since everyone is different, everyone has to find his own way based on this information. Of course, you don't have to do this alone. All ABAP developers should offer help to the best of their ability.
 
-## First online impressions of the programming language
+## :cloud: First online impressions of the programming language
 
 For a first online impression, some general information on the ABAP programming language can be found in this [Wiki article](https://en.wikipedia.org/wiki/ABAP).
 
-## First offline impressions of the programming language
+## :house: First offline impressions of the programming language
 
 In order to experience the programming language, an accompanied course is recommended. There are often corresponding offers for students and trainees.
 
@@ -24,7 +24,7 @@ A good starting point might be the book "[ABAP - An Introduction](https://www.sa
 
 As soon as you've made your first experience with ABAP, read the book "[Clean ABAP: A Style Guide for Developers](https://www.sap-press.com/clean-abap_5190/)". The book gives many tips and suggestions on how to write maintainable ABAP source code. And that's exactly what it's all about every day.
 
-## Typical activities of an ABAP developer
+## :memo: Typical activities of an ABAP developer
 
 The following list is a mix of typical core tasks.
 
@@ -55,7 +55,7 @@ Maybe these tasks are also part of the work:
 * support sales team
 * organize development
 
-## Tree view of usefull skills
+## :evergreen_tree: Tree view of usefull skills
 
 The following tree view is not meant as "complete". In addition, not every term automatically has to play a role in the working life of an ABAP developer. Furthermore, it's impossible to achieve mastery in every skill or talent. A good mix is sufficient - with strengths and weaknesses. The team you work in should do what you can't do yourself. Find your place in the team.
 
@@ -127,13 +127,13 @@ ABAP developer
         +-- <choose your business area, e.g. finance or logistics>
 ```
 
-## Make your first steps
+## :footprints: Make your first steps
 
 There is a tutorial called "[Start Developing in ABAP in SAP NetWeaver 7.5](https://developers.sap.com/mission.abap-dev-get-started.html)". Since there is a lot to discover, you should take your time.
 
 Another good starting point could be this [blog](https://blogs.sap.com/2021/01/26/getting-started-with-abap-in-2021/) from Markus Haug, published on SAP Community.
 
-## Start a career
+## :business_suit_levitating: Start a career
 
 This is a proposal to start a career as ABAP developer:
 
@@ -145,7 +145,7 @@ This is a proposal to start a career as ABAP developer:
 * Take on more responsibility over time.
 * Share your experiences.
 
-## Become part of the family
+## :people_holding_hands: Become part of the family
 
 ABAP developers exchange information on different platforms. Below is a selection.
 
