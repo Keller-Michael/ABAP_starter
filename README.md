@@ -10,7 +10,7 @@ It should also be noted that this is general information. Since everyone is diff
 
 ## :cloud: First online impressions of the programming language
 
-For a first online impression, some general information on the ABAP programming language can be found in this [Wiki article](https://en.wikipedia.org/wiki/ABAP).
+For a first online impression, some general information on the ABAP programming language can be found in this [Wiki article](https://en.wikipedia.org/wiki/ABAP). Very simple examples can be tried out with [Lars Hvam's](https://github.com/larshp) ABAP Online [Transpiler](https://transpiler.abaplint.org/). 
 
 ## :house: First offline impressions of the programming language
 
