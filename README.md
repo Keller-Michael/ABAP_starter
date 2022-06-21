@@ -129,7 +129,7 @@ ABAP developer
 
 ## :footprints: Make your first steps
 
-There is a tutorial called "[Start Developing in ABAP in SAP NetWeaver 7.5](https://developers.sap.com/mission.abap-dev-get-started.html)". Since there is a lot to discover, you should take your time.
+There is a tutorial called "[Get Started with ABAP Programming on SAP BTP](https://learning.sap.com/learning-journey/get-started-with-abap-programming-on-sap-btp)". Since there is a lot to discover, you should take your time.
 
 Another good starting point could be this [blog](https://blogs.sap.com/2021/01/26/getting-started-with-abap-in-2021/) from Markus Haug, published on SAP Community.
 
