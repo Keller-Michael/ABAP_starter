@@ -10,7 +10,7 @@ It should also be noted that this is general information. Since everyone is diff
 
 ## :cloud: First online impressions of the programming language
 
-For a first online impression, some general information on the ABAP programming language can be found in this [Wiki article](https://en.wikipedia.org/wiki/ABAP). Very simple examples can be tried out with [Lars Hvam's](https://github.com/larshp) ABAP Online [Transpiler](https://transpiler.abaplint.org/). 
+For a first online impression, some general information on the ABAP programming language can be found in this [Wiki article](https://en.wikipedia.org/wiki/ABAP). There is an [ABAP Exercism track](https://exercism.org/tracks/abap) where you can solve various programming tasks with ABAP online. Finally, very simple examples can be tried out with [Lars Hvam's](https://github.com/larshp) ABAP Online [Transpiler](https://transpiler.abaplint.org/). 
 
 ## :house: First offline impressions of the programming language
 
@@ -129,7 +129,9 @@ ABAP developer
 
 ## :footprints: Make your first steps
 
-There is a tutorial called "[Get Started with ABAP Programming on SAP BTP](https://learning.sap.com/learning-journey/get-started-with-abap-programming-on-sap-btp)". Since there is a lot to discover, you should take your time.
+First of all, check out the [ABAP Exercism Track](https://exercism.org/tracks/abap). You need nothing more than a browser to solve the tasks contained there.
+
+After that, there is a tutorial called "[Get Started with ABAP Programming on SAP BTP](https://learning.sap.com/learning-journey/get-started-with-abap-programming-on-sap-btp)". Since there is a lot to discover, you should take your time.
 
 Another good starting point could be this [blog](https://blogs.sap.com/2021/01/26/getting-started-with-abap-in-2021/) from Markus Haug, published on SAP Community.
 
