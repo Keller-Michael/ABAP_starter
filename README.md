@@ -131,9 +131,20 @@ ABAP developer
 
 First of all, check out the [ABAP Exercism Track](https://exercism.org/tracks/abap). You need nothing more than a browser to solve the tasks contained there.
 
-After that, there is a tutorial called "[Get Started with ABAP Programming on SAP BTP](https://learning.sap.com/learning-journey/get-started-with-abap-programming-on-sap-btp)". Since there is a lot to discover, you should take your time.
+After that, there is a tutorial called "[Learning the Basics of ABAP Programming on SAP BTP](https://learning.sap.com/learning-journeys/learn-the-basics-of-abap-programming-on-sap-btp)". Since there is a lot to discover, you should take your time.
 
 Another good starting point could be this [blog](https://blogs.sap.com/2021/01/26/getting-started-with-abap-in-2021/) from Markus Haug, published on SAP Community.
+
+## :computer: Get your ABAP Trial access
+
+Actually there are different options to get access to an ABAP Trial system.
+
+| Name | Description | Type | Link |
+| :--- | :--- | :--- | :--- |
+| ABAP  Platform Trial 1909 SP 07 | Docker image containing technical stack, no business functions | on-premises | [Blog on SAP Community](https://blogs.sap.com/2023/07/31/now-available-abap-platform-trial/) |
+| SAP NetWeaver Application Server ABAP Developer Edition 7.52 SP04 | Installations files containing technical stack, no business functions | on-premises | [SAP Learning Free Trials and Downloads](https://developers.sap.com/trials-downloads.html) |
+| SAP BTP Trial | Shared Cloud-based ABAP runtime environment | Cloud | [Get a Free Account on SAP BTP Trial](https://developers.sap.com/tutorials/hcp-create-trial-account.html) |
+| Developer Appliance Temples | Trials like SAP NetWeaver 7.52 via SAP Cloud Appliance Library | Cloud | [Cloud Appliance Library](https://cal.sap.com/) |
 
 ## :business_suit_levitating: Start a career
 
