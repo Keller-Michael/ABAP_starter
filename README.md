@@ -84,8 +84,8 @@ ABAP developer
     |   |   +-- object oriented programming
     |   |   +-- procedural programming
     |   |   +-- RESTful application programming
-    |   |   +-- ABAP SQL (Open SQL)
-    |   |   +-- ABAP Core Data Services
+    |   |   +-- ABAP SQL
+    |   |   +-- ABAP Core Data Services (CDS)
     |   |
     |   +-- HTML/CSS
     |   +-- JavaScript
@@ -94,17 +94,21 @@ ABAP developer
     +-- [ programming methods/styles ]
     |   |
     |   +-- Clean ABAP
+    |   +-- database design
     |   +-- design patterns
     |   +-- Unified Modeling Language
     |
     +-- [ tools ]
     |   |
     |   +-- ABAP Development Tools for Eclipse
-    |   +-- Workbench
-    |   +-- Data Dictionary
+    |   +-- ABAP Test Cockpit
     |   +-- ABAP Unit
     |   +-- abapGit
+    |   +-- ABAP Formatter
+    |   +-- ABAP Cleaner
     |   +-- SAP GUI
+    |   +-- Data Dictionary
+    |   +-- Workbench
     |
     +-- [ interface technologies ]
     |   |
