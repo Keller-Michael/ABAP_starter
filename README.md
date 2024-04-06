@@ -177,8 +177,8 @@ Here's the platform selection.
 
 * [SAP Community](https://community.sap.com/)
 * [LinkedIn](https://www.linkedin.com/)
-* [Twitter](https://twitter.com/)
-* [stack overflow](https://stackoverflow.com/)
+* [X (formerly Twitter)](https://twitter.com/)
+* [Stack Overflow](https://stackoverflow.com/)
 * [GitHub](https://github.com/)
 * [ABAP Blog](https://abapblog.com/)
 * [Tricktresor](https://tricktresor.de/)
