@@ -145,7 +145,7 @@ Actually there are different options to get access to an ABAP Trial system.
 
 | Name | Description | Type | Link |
 | :--- | :--- | :--- | :--- |
-| ABAP  Platform Trial 1909 SP 07 | Docker image containing technical stack, no business functions | on-premises | [Blog on SAP Community](https://blogs.sap.com/2023/07/31/now-available-abap-platform-trial/) |
+| ABAP Cloud Developer Trial 2022 | Docker image containing technical stack, no business functions | on-premises | [Blog on SAP Community](https://community.sap.com/t5/technology-blogs-by-sap/abap-cloud-developer-trial-2022-available-now/ba-p/13598069) |
 | SAP NetWeaver Application Server ABAP Developer Edition 7.52 SP04 | Installations files containing technical stack, no business functions | on-premises | [SAP Learning Free Trials and Downloads](https://developers.sap.com/trials-downloads.html) |
 | SAP BTP Trial | Shared Cloud-based ABAP runtime environment | Cloud | [Get a Free Account on SAP BTP Trial](https://developers.sap.com/tutorials/hcp-create-trial-account.html) |
 | Developer Appliance Templates | Trials like SAP NetWeaver 7.52 via SAP Cloud Appliance Library | Cloud | [Cloud Appliance Library](https://cal.sap.com/) |
