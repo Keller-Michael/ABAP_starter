@@ -177,6 +177,7 @@ Here's the platform selection.
 
 * [SAP Community](https://community.sap.com/)
 * [LinkedIn](https://www.linkedin.com/)
+* [Bluesky](https://bsky.app/) (check [SAP Developer Starter Pack](https://bsky.app/starter-pack/marian.marianzeis.de/3lavxhk26r32a) by [Marian Zeis](https://github.com/marianfoo))
 * [X (formerly Twitter)](https://twitter.com/)
 * [Stack Overflow](https://stackoverflow.com/)
 * [GitHub](https://github.com/)
