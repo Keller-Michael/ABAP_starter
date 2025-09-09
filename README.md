@@ -131,6 +131,8 @@ ABAP developer
         +-- <choose your business area, e.g. finance or logistics>
 ```
 
+Regarding hard skills, it's also worth taking a look at Tobias Hofmann's [SAP Development Radar](https://tobiashofmann.github.io/sap-dev-tech-radar/). The radar is divided into the areas of "User Interface, Framework, Technology, and Tools" according to the recommendations "Adopt, Use, Hold, and Stop." This can provide some guidance. However, the SAP Development Radar doesn't just focus on ABAP, but on SAP development topics in general.
+
 ## :footprints: Make your first steps
 
 First of all, check out the [ABAP Exercism Track](https://exercism.org/tracks/abap). You need nothing more than a browser to solve the tasks contained there.
