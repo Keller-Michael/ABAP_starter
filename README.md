@@ -139,9 +139,9 @@ Regarding hard skills, it's also worth taking a look at Tobias Hofmann's [SAP De
 
 ## :footprints: Make your first steps
 
-First of all, check out the [ABAP Exercism Track](https://exercism.org/tracks/abap). You need nothing more than a browser to solve the tasks contained there.
+First, you should learn the fundamentals of modern ABAP programming. The course "[Learning the Basics of ABAP Programming on SAP BTP](https://learning.sap.com/learning-journeys/learn-the-basics-of-abap-programming-on-sap-btp)" offers an excellent introduction to the subject. Since mastering the basics and setting up the development environment require some effort, you should approach this calmly and allow yourself sufficient time to understand.
 
-After that, there is a tutorial called "[Learning the Basics of ABAP Programming on SAP BTP](https://learning.sap.com/learning-journeys/learn-the-basics-of-abap-programming-on-sap-btp)". Since there is a lot to discover, you should take your time.
+Once you have grasped the basics of ABAP and are looking for small and funny challenges, the [ABAP Exercism Track](https://exercism.org/tracks/abap) offers exactly that. You need nothing more than a browser to solve the tasks contained there.
 
 Another good starting point could be this [blog](https://blogs.sap.com/2021/01/26/getting-started-with-abap-in-2021/) from Markus Haug, published on SAP Community.
 
